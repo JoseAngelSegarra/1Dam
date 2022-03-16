@@ -6,4 +6,8 @@ Mario Espasa Planells
 
 Alejandro Martínez Morillo
 
+<<<<<<< HEAD
 Junior Aldana Llanos
+=======
+Hermann Hevesi
+>>>>>>> 78a5a2056aab8347e85fe3444e08f1611adfc8a0
